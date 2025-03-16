@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente estou cursando 3° período em Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente estou cursando 5° período em Análise e Desenvolvimento de Sistemas
 - 🌱 Estou estudando HTML, CSS, Bootstrap, JavaScript, PHP, PostgreSQL, MySQL Workbench
 - 👯 Estou procurando colaborar em projetos web
 - 😄 ele/dele
